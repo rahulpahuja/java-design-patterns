@@ -6,5 +6,6 @@ public class SimUTest {
         mallard.display();
         mallard.performFly();
         mallard.performQuack();
+
     }
 }
