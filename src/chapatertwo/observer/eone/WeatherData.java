@@ -1,4 +1,4 @@
-package chapatertwo.observer;
+package chapatertwo.observer.eone;
 
 import java.util.ArrayList;
 

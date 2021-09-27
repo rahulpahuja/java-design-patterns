@@ -1,4 +1,4 @@
-package chapatertwo.observer;
+package chapatertwo.observer.eone;
 
 public interface Subject {
     public void registerObserver(Observer o );

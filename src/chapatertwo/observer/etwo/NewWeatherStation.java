@@ -1,4 +1,4 @@
-package chapatertwo.observer.newimpl;
+package chapatertwo.observer.etwo;
 
 public class NewWeatherStation {
     public static void main(String[] args) {

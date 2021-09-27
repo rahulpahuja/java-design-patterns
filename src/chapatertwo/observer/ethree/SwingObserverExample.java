@@ -1,4 +1,4 @@
-package chapatertwo.observer;
+package chapatertwo.observer.ethree;
 
 import javax.swing.*;
 import java.awt.*;

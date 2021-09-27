@@ -1,4 +1,4 @@
-package chapatertwo.observer;
+package chapatertwo.observer.eone;
 
 //Any Display class will be using this interface for displaying their values
 public interface DisplayElement {

@@ -1,6 +1,6 @@
-package chapatertwo.observer.newimpl;
+package chapatertwo.observer.etwo;
 
-import chapatertwo.observer.DisplayElement;
+import chapatertwo.observer.eone.DisplayElement;
 
 import java.util.Observable;
 import java.util.Observer;

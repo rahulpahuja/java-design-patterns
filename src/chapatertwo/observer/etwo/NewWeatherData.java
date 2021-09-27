@@ -1,4 +1,4 @@
-package chapatertwo.observer.newimpl;
+package chapatertwo.observer.etwo;
 
 import java.util.Observable;
 
